@@ -1,6 +1,5 @@
 # Personal Portfolio
 
-![Portfolio](./path-to-image/personal-portfolio-banner.png)
 
 Welcome to my personal portfolio! This project showcases my skills, work, and experiences, presented with a modern, minimalistic, and responsive design. The portfolio is built with **ReactJS**, **Tailwind CSS**, and **Framer Motion** for smooth animations and transitions.
 
@@ -44,11 +43,8 @@ Welcome to my personal portfolio! This project showcases my skills, work, and ex
 
 ## Demo
 
-You can check out a live demo [here](https://your-portfolio-link.com).
+You can check out a live demo [here](https://hanzala-arshad-personal-portfolio.vercel.app/).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 
 
